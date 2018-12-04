@@ -1,0 +1,25 @@
+dependencies: \
+  /Users/caio.oliveira/ShowCommerce/Estudo-React/FetchTraining/node_modules/react-native/Libraries/Text/Text/RCTTextView.m \
+  /Users/caio.oliveira/ShowCommerce/Estudo-React/FetchTraining/node_modules/react-native/Libraries/Text/Text/RCTTextView.h \
+  /Users/caio.oliveira/ShowCommerce/Estudo-React/FetchTraining/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTComponent.h \
+  /Users/caio.oliveira/ShowCommerce/Estudo-React/FetchTraining/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUtils.h \
+  /Users/caio.oliveira/ShowCommerce/Estudo-React/FetchTraining/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h \
+  /Users/caio.oliveira/ShowCommerce/Estudo-React/FetchTraining/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
+  /Users/caio.oliveira/ShowCommerce/Estudo-React/FetchTraining/ios/build/Build/Products/Debug-iphonesimulator/include/React/UIView+React.h \
+  /Users/caio.oliveira/ShowCommerce/Estudo-React/FetchTraining/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/caio.oliveira/ShowCommerce/Estudo-React/FetchTraining/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/caio.oliveira/ShowCommerce/Estudo-React/FetchTraining/node_modules/react-native/Libraries/Text/Text/RCTTextShadowView.h \
+  /Users/caio.oliveira/ShowCommerce/Estudo-React/FetchTraining/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTShadowView.h \
+  /Users/caio.oliveira/ShowCommerce/Estudo-React/FetchTraining/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTLayout.h \
+  /Users/caio.oliveira/ShowCommerce/Estudo-React/FetchTraining/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/caio.oliveira/ShowCommerce/Estudo-React/FetchTraining/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTRootView.h \
+  /Users/caio.oliveira/ShowCommerce/Estudo-React/FetchTraining/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h \
+  /Users/caio.oliveira/ShowCommerce/Estudo-React/FetchTraining/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h \
+  /Users/caio.oliveira/ShowCommerce/Estudo-React/FetchTraining/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h \
+  /Users/caio.oliveira/ShowCommerce/Estudo-React/FetchTraining/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
+  /Users/caio.oliveira/ShowCommerce/Estudo-React/FetchTraining/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h \
+  /Users/caio.oliveira/ShowCommerce/Estudo-React/FetchTraining/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h \
+  /Users/caio.oliveira/ShowCommerce/Estudo-React/FetchTraining/node_modules/react-native/Libraries/Text/BaseText/RCTBaseTextShadowView.h \
+  /Users/caio.oliveira/ShowCommerce/Estudo-React/FetchTraining/node_modules/react-native/Libraries/Text/RCTTextAttributes.h \
+  /Users/caio.oliveira/ShowCommerce/Estudo-React/FetchTraining/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTTextDecorationLineType.h \
+  /Users/caio.oliveira/ShowCommerce/Estudo-React/FetchTraining/node_modules/react-native/Libraries/Text/RCTTextTransform.h
